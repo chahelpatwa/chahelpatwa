@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chahel Patwa</h1>
-<h3 align="center">Exploring Distributed Systems</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chahelpatwa&label=Profile%20views&color=0e75b6&style=flat" alt="chahelpatwa" /> </p>
 

@@ -5,8 +5,6 @@
 
 - 📑 Currently working on **Personal Projects** and learning **Cloud Computing**
 
-- 💬 Ask me about **Programming Languages**
-
 - 📧 Mail me **chahelpatwa2801@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

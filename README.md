@@ -48,14 +48,6 @@
   </a>
 </div>
 
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chahelpatwa&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=chahelpatwa&theme=dracula" height="150"/>
-</div>
-
 ###
 
 <picture>
